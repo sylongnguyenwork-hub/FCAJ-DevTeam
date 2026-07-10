@@ -23,10 +23,6 @@ Our system opens with a modern Landing Page and a secure user authentication flo
 
 <img src="/FCAJ-DevTeam/images/5-Workshop/5.8-Frontend-React/login.png" alt="IAM">
 
-#### DataUpload Interface
-
-<img src="/FCAJ-DevTeam/images/5-Workshop/5.8-Frontend-React/data-upload.png" alt="IAM">
-
 
 #### 1. Landing Page (src/components/LandingPage.jsx)
 A welcoming interface with smooth animations that highlights the core features of IDPCloud.

@@ -63,7 +63,7 @@ For document uploads, AWS Lambda generates a Presigned URL, allowing users to up
 
 Dashboard APIs retrieve invoice records and statistical data from DynamoDB for visualization on the web application.
 
-![Architecture Diagram](/images/2-Proposal/architecture.png)
+<img src="/FCAJ-DevTeam/images/2-Proposal/architecture.png" alt="AWS Billing">
 
 ### AWS Services Used
 

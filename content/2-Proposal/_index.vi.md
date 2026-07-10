@@ -58,7 +58,7 @@ Người dùng đăng nhập thông qua Amazon Cognito. Sau khi xác thực thà
 
 Các API Dashboard sẽ đọc dữ liệu từ DynamoDB để hiển thị danh sách hóa đơn, thống kê doanh thu và các biểu đồ trực quan.
 
-![Architecture Diagram](/images/2-Proposal/architecture.png)
+<img src="/FCAJ-DevTeam/images/2-Proposal/architecture.png" alt="AWS Billing">
 
 ### Dịch vụ AWS sử dụng
 - Amazon CloudFront

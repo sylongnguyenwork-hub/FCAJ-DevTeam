@@ -21,7 +21,8 @@ Hệ thống của chúng ta mở đầu bằng một trang giới thiệu (Land
 <img src="/FCAJ-DevTeam/images/5-Workshop/5.8-Frontend-React/login.png" alt="IAM">
 
 #### 1. Landing Page (src/components/LandingPage.jsx)
-<img src="/FCAJ-DevTeam/images/5-Workshop/5.8-Frontend-React/data-upload.png" alt="IAM">
+A welcoming interface with smooth animations that highlights the core features of IDPCloud.
+
 
 ```jsx
 import React from 'react';

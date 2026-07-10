@@ -8,15 +8,24 @@ pre : " <b> 5.8.1. </b> "
 
 Our system opens with a modern Landing Page and a secure user authentication flow using Amazon Cognito.
 #### Landing Page Interface
-![Landing Page Interface](/images/5-Workshop/5.8-Frontend-React/landing-page.png)
+
+<img src="/FCAJ-DevTeam/images/5-Workshop/5.8-Frontend-React/landing-page.png" alt="IAM">
+
 #### Register Interface
-![Landing Page Interface](/images/5-Workshop/5.8-Frontend-React/register.png)
+
+<img src="/FCAJ-DevTeam/images/5-Workshop/5.8-Frontend-React/register.png" alt="IAM">
+
 #### Email verification Interface
-![Email verification Interface](/images/5-Workshop/5.8-Frontend-React/email-verification.png)
+
+<img src="/FCAJ-DevTeam/images/5-Workshop/5.8-Frontend-React/email-verification.png" alt="IAM">
+
 #### Login Interface
-![Landing Page Interface](/images/5-Workshop/5.8-Frontend-React/login.png)
+
+<img src="/FCAJ-DevTeam/images/5-Workshop/5.8-Frontend-React/login.png" alt="IAM">
+
 #### DataUpload Interface
-![DataUpload Interface](/images/5-Workshop/5.8-Frontend-React/data-upload.png)
+
+<img src="/FCAJ-DevTeam/images/5-Workshop/5.8-Frontend-React/data-upload.png" alt="IAM">
 
 
 #### 1. Landing Page (src/components/LandingPage.jsx)

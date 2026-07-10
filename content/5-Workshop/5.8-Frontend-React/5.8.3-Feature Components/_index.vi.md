@@ -7,7 +7,9 @@ pre : " <b> 5.8.3. </b> "
 ---
 
 Để hỗ trợ cho Dashboard, chúng ta có 2 component quan trọng giúp người dùng tương tác sâu hơn với dữ liệu.
+#### Category Manager Interface
 
+<img src="/FCAJ-DevTeam/images/5-Workshop/5.8-Frontend-React/category.png" alt="IAM">
 #### 1. Quản lý danh mục (`src/components/CategoryManager.jsx`)
 Cho phép người dùng tự định nghĩa các danh mục chi tiêu cá nhân (như Xăng xe, Tiếp khách...) và lưu trữ đồng bộ lên DynamoDB.
 

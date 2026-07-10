@@ -20,12 +20,14 @@ Because this function needs to generate URLs that permit file uploads to S3, we 
 1. Go to the **Configuration** tab and select **Permissions** from the left menu.
 2. Under **Execution role**, click the blue link formatted as **idp-api-presign-role-xxxx**.
 
-![Execution Role Link](/images/5-Workshop/5.5-Serverless-Lambda/presign-role.png)
+
+<img src="/FCAJ-DevTeam/images/5-Workshop/5.5-Serverless-Lambda/presign-role.png" alt="IAM">
 
 3. In the IAM console that opens, click **Add permissions** and select **Attach policies**.
 4. Type `AmazonS3FullAccess` in the search box and check the box next to this policy.
 
-![Attach S3 Full Access](/images/5-Workshop/5.5-Serverless-Lambda/attach-s3-access.png)
+
+<img src="/FCAJ-DevTeam/images/5-Workshop/5.5-Serverless-Lambda/attach-s3-access.png" alt="IAM">
 
 5. Scroll to the bottom and click **Add permissions** to complete the process.
 

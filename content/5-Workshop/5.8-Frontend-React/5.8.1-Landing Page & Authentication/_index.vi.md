@@ -8,15 +8,20 @@ pre : " <b> 5.8.1. </b> "
 
 Hệ thống của chúng ta mở đầu bằng một trang giới thiệu (Landing Page) hiện đại và luồng xác thực người dùng chặt chẽ sử dụng Amazon Cognito.
 #### Landing Page
-![Landing Page Interface](/images/5-Workshop/5.8-Frontend-React/landing-page.png)
+<img src="/FCAJ-DevTeam/images/5-Workshop/5.8-Frontend-React/landing-page.png" alt="IAM">
+
 #### Đăng nhập
-![Login Interface](/images/5-Workshop/5.8-Frontend-React/login.png)
+
+<img src="/FCAJ-DevTeam/images/5-Workshop/5.8-Frontend-React/register.png" alt="IAM">
+
 #### Đăng ký 
-![Register Interface](/images/5-Workshop/5.8-Frontend-React/register.png)
+<img src="/FCAJ-DevTeam/images/5-Workshop/5.8-Frontend-React/email-verification.png" alt="IAM">
+
 #### Xác minh email 
-![Email verification Interface](/images/5-Workshop/5.8-Frontend-React/email-verification.png)
+<img src="/FCAJ-DevTeam/images/5-Workshop/5.8-Frontend-React/login.png" alt="IAM">
+
 #### 1. Landing Page (src/components/LandingPage.jsx)
-Giao diện đón khách với các hiệu ứng chuyển động và giới thiệu tính năng nổi bật của IDPCloud.
+<img src="/FCAJ-DevTeam/images/5-Workshop/5.8-Frontend-React/data-upload.png" alt="IAM">
 
 ```jsx
 import React from 'react';

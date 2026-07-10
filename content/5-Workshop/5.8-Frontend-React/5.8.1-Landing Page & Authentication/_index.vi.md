@@ -14,11 +14,11 @@ Hệ thống của chúng ta mở đầu bằng một trang giới thiệu (Land
 
 <img src="/FCAJ-DevTeam/images/5-Workshop/5.8-Frontend-React/register.png" alt="IAM">
 
-#### Đăng ký 
+#### Xác minh email 
 <img src="/FCAJ-DevTeam/images/5-Workshop/5.8-Frontend-React/email-verification.png" alt="IAM">
 
-#### Xác minh email 
-<img src="/FCAJ-DevTeam/images/5-Workshop/5.8-Frontend-React/login.png" alt="IAM">
+#### Đăng ký
+<img src="/FCAJ-DevTeam/images/5-Workshop/5.8-Frontend-React/Login.png" alt="IAM">
 
 #### 1. Landing Page (src/components/LandingPage.jsx)
 A welcoming interface with smooth animations that highlights the core features of IDPCloud.

@@ -21,7 +21,7 @@ Our system opens with a modern Landing Page and a secure user authentication flo
 
 #### Login Interface
 
-<img src="/FCAJ-DevTeam/images/5-Workshop/5.8-Frontend-React/login.png" alt="IAM">
+<img src="/FCAJ-DevTeam/images/5-Workshop/5.8-Frontend-React/Login.png" alt="IAM">
 
 
 #### 1. Landing Page (src/components/LandingPage.jsx)
